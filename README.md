@@ -1,1 +1,1 @@
-# Python-4-everybody
+# Python-for-everybody
